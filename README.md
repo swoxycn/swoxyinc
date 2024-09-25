@@ -1,6 +1,6 @@
 
 
-<p href="https://discord.com/users/824027700851245138" align="center" width="1000px">
+<p href="https://api.lanyard.rest/v1/users/1253752890212880505" align="center" width="1000px">
     <img src="https://lanyard.cnrad.dev/api/1196419289553571932?borderRadius=30px"/>
 </p>
 
