@@ -5,7 +5,9 @@
 </p>
 
 
-<h2 align="center">Skills </h2>
+<div align="center">
+  <img src="https://count.getloli.com/@swoxy" alt="Swoxy Counter" />
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,6 +19,4 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxyinc&theme=tokyonight&show_icons=true">
 </p>
 
-<div align="center">
-  <img src="https://count.getloli.com/@swoxy" alt="Swoxy Counter" />
-</div>
+
