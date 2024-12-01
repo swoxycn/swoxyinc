@@ -17,3 +17,6 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxyinc&theme=tokyonight&show_icons=true">
 </p>
 
+<div align="center">
+  <img src="https://count.getloli.com/@swoxy" alt="Swoxy Counter" />
+</div>
