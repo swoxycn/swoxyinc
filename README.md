@@ -16,7 +16,7 @@
 </p>
 
 <p href="https://discord.com/users/453585632565002243" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxycn&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxycan&theme=tokyonight&show_icons=true">
 </p>
 
 
